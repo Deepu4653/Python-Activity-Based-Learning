@@ -1,0 +1,8 @@
+STRING-BASED ANSWER EVALUATION
+=============================================
+Answer key: ABCDABCD
+---------------------------------------------
+Stu1  correct=7 wrong=1 unattempted=0 score=6.75
+Stu2  correct=4 wrong=4 unattempted=0 score=3.00
+Stu3  correct=6 wrong=0 unattempted=2 score=6.00
+Stu4  correct=8 wrong=0 unattempted=0 score=8.00

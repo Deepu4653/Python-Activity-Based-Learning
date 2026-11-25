@@ -1,0 +1,15 @@
+PASSWORD POLICY VALIDATION ENGINE
+=============================================
+Password: Abcd@123        -> VALID
+Password: short           -> INVALID
+    - length must be at least 8
+    - needs an uppercase letter
+    - needs a digit
+    - needs a special character (!@#$%^&*)
+Password: NoSpecial1      -> INVALID
+    - needs a special character (!@#$%^&*)
+Password: alllowercase1!  -> INVALID
+    - needs an uppercase letter
+    - no character may repeat 3+ times consecutively
+Password: RepeatingAA1!   -> VALID
+Password: goodPass9#xQ    -> VALID

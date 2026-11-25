@@ -1,0 +1,13 @@
+ATM TRANSACTION SEQUENCE SIMULATION
+=============================================
+Starting balance: Rs 5000
+---------------------------------------------
+Deposit  Rs  2000 -> Balance Rs 7000
+Withdraw Rs  1500 -> Balance Rs 5500
+Withdraw Rs  5000 -> EXCEEDS LIMIT -> REJECTED
+Withdraw Rs  1000 -> Balance Rs 4500
+Deposit  Rs   500 -> Balance Rs 5000
+Withdraw Rs  3000 -> Balance Rs 2000
+Invalid withdrawal amount -200 -> REJECTED
+---------------------------------------------
+Final balance: Rs 2000

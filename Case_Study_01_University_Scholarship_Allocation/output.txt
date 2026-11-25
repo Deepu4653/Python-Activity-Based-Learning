@@ -1,0 +1,15 @@
+UNIVERSITY SCHOLARSHIP ALLOCATION
+==================================================
+Eligibility: Aggregate >= 75.0, Each subject >= 60,
+Attendance >= 75%, Family income <= 250000
+==================================================
+
+Total applicants: 6
+Eligible applicants: 4
+
+Ranked eligible list:
+--------------------------------------------------
+ 1. Charan     Agg: 91.0  Att: 95%  Income: 150000
+ 2. Aarav      Agg: 88.2  Att: 92%  Income: 180000
+ 3. Farhan     Agg: 81.5  Att: 85%  Income: 140000
+ 4. Bhavya     Agg: 76.5  Att: 88%  Income: 250000

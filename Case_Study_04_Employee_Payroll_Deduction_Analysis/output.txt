@@ -1,0 +1,22 @@
+EMPLOYEE PAYROLL AND DEDUCTION ANALYSIS
+==================================================
+Name          Gross     Deduct        Net
+------------------------------------------
+Ramesh     50000.00   10000.00   40000.00
+Sneha      67250.00   20250.00   47000.00
+Arjun      35940.00    7394.00   28546.00
+
+(Full statements are printed in detail section below)
+
+SALARY STATEMENT
+Employee        : Ramesh
+Basic Pay       : Rs 40000
+Allowance       : Rs 5000
+Overtime (10 h)  : Rs 2000
+Incentive       : Rs 3000
+Gross Salary    : Rs 50000.00
+PF (12%)        : Rs 4800.00
+Tax             : Rs 5000.00
+Prof. Tax       : Rs 200.00
+Total Deduction : Rs 10000.00
+Net Salary      : Rs 40000.00

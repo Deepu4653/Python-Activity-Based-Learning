@@ -1,0 +1,9 @@
+HOSPITAL BILLING AND PATIENT CLASSIFICATION
+=============================================
+Name     Category   Final(Rs)    Class
+---------------------------------------------
+Ravi     General      2800.00   Medium
+Sarla    Senior       2400.00   Medium
+Kiran    Child        1900.00   Medium
+Imran    Insured      3550.00   Medium
+Meena    INVALID billing (negative charge)

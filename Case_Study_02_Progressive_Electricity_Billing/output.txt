@@ -1,0 +1,13 @@
+PROGRESSIVE ELECTRICITY BILLING
+========================================
+Month    Units   Bill(Rs)
+------------------------------
+Jan        120     710.01
+Feb        145     890.09
+Mar        210    1407.00
+Apr        330    2604.00
+May         95     540.23
+
+Unusual increase check (>50% rise in units):
+  Mar -> Apr : 57% increase (UNUSUAL)
+Analysis complete.
